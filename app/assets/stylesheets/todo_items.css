@@ -4,5 +4,10 @@
 */
 h1 {
  text-align: center;
+ background-color: yellow;
 
+}
+
+body {
+  background-color: red;
 }
